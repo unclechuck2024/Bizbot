@@ -1,0 +1,1 @@
+web: python investment_bot.py
